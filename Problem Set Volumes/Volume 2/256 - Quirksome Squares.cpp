@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 256 - Quirksome Squares.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 256 Quirksome Squares in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================

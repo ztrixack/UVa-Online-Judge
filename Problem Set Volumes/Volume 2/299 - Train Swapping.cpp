@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 299 - Train Swapping.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 299 Train Swapping in C++, Ansi-style
 // Run Time    : 0.012 seconds
 //============================================================================

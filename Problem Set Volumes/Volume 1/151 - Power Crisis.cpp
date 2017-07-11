@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 151 - Power Crisis.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 151 Power Crisis in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================

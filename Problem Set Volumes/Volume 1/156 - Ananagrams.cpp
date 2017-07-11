@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 156 - Ananagrams.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 156 Ananagrams in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================

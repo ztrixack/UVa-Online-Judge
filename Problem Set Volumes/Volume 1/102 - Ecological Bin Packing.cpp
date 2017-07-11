@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 102 - Ecological Bin Packing.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 102 Ecological Bin Packing in C++, Ansi-style
 // Run Time    : 0.120 seconds
 //============================================================================

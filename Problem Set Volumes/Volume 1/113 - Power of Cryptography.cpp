@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 113 - Power of Cryptography.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 113 Power of Cryptography in C++, Ansi-style
 // Run Time    : 0.016 seconds
 //============================================================================

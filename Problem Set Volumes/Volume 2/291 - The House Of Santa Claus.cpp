@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 291 - The House Of Santa Claus.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 278 The House Of Santa Claus in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================

@@ -1,7 +1,7 @@
 //============================================================================
-// Name        : 337.cpp
+// Name        : 337 - Interpreting Control Sequences.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 337 Interpreting Control Sequences in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================

@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 146 - ID Codes.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 146 ID Codes in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================

@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 272 - TEX Quotes.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 272 TEX Quotes in C++, Ansi-style
 // Run Time    : 0.020 seconds
 //============================================================================

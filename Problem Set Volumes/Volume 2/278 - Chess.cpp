@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 278 - Chess.cpp
 // Author      : ztrixack
-// Copyright   : MIT
+// Copyright   : MIT License
 // Description : 278 Chess in C++, Ansi-style
 // Run Time    : 0.008 seconds
 //============================================================================
